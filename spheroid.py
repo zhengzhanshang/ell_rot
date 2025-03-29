@@ -1,3 +1,4 @@
+#main code
 # spin-up in a sphere
 # start with: python spheroid.py input_spheroid.json
 
